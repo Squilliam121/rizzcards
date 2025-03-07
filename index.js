@@ -208,4 +208,4 @@ setInterval(() => {
         description.textContent = "Jake is known as the really tall one. Like, REALLY tall. Tallest out of our group. Sure, Yuty says he is 5'11, but we can't know for certain. Jake is the POOK.";
         stats.innerHTML = "GFSTATUS: 0/10<br>RIZZ: 6/10<br>GYATT: 11/10<br>TUFF: 8/10<br>TOTAL: 25/40";
     }
-}, 10)
+}, 100)
