@@ -15,7 +15,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column; 
-    transform: scale(0.7);
+    transform: scale(0.75);
 }
 
 #menu{
@@ -75,7 +75,7 @@ button:active{
     border-radius: 25px;
     margin: 5px;
     background-color: rgb(141, 233, 179);
-    max-width: 800px;
+    max-width: 750px;
     overflow: hidden;
     padding: 30px;
     border: 10px solid black;
@@ -88,7 +88,7 @@ button:active{
     border-radius: 15px;
     display: block;
     height: auto;
-    width: 400px;
+    width: 250px;
     justify-content: center;
     align-items: center;
     border: 4px solid black;
@@ -101,20 +101,20 @@ button:active{
 }
 
 #HEADER{
-    font-size: 5rem;
+    font-size: 4rem;
     margin: 0px;
     text-align: center;
 }
 
 #DESCRIPTION{
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     margin: 5px;
     text-align: justify;
     font-weight: bold;
 }
 
 #STATS{
-    font-size: 1.6rem;
+    font-size: 1.3rem;
     margin: 20px;
     text-align: center;
 }
