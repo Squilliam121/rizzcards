@@ -117,7 +117,7 @@ function selectStorm(){
 function selectWilliam(){
     card = "William";
     if (card === "William") {
-        image.src = "assets/jam.jpg";
+        image.src = "assets/william.jpg";
         header.textContent  = "William";
         description.textContent = "William is a really cool guy. He has triangle shaped curly hair and makes really cool pixel art because he's really cool. - Written by friend (not me)";
         stats.innerHTML = "GFSTATUS: 0/10<br>RIZZ: 8/10<br>GYATT: 8/10<br>TUFF: 11/10<br>TOTAL: 27/40";
