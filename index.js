@@ -130,7 +130,7 @@ function selectJam(){
     if (card === "Jam") {
         image.src = "assets/jam.jpg";
         header.textContent  = "Jam";
-        description.textContent = "Jam is a very smexy dude. He is also very good at kicking things. He has also sold his soul to the Gaijan Snail.";
+        description.textContent = "Jam is a very smexy dude. He is also very good at kicking things. He has also sold his soul to the Gaijan Snail. He also has an unhealthy addiction to football and running";
         stats.innerHTML = "GFSTATUS: 10/10<br>RIZZ: 8/10<br>GYATT: 10/10<br>TUFF: 9/10<br>TOTAL: 37/40";
     }
 }
